@@ -8,10 +8,12 @@ import { StudentService } from './student.service';
 import { HttpClientModule } from '@angular/common/http';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     routingComponents,
+
 
   ],
   imports: [
